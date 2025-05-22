@@ -47,7 +47,7 @@ const register = async () => {
                 <input v-model="password" type="password" placeholder="Password"
                     class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-green-500" />
                 <button type="submit" class="w-full px-4 py-2 text-white bg-green-500 rounded-lg hover:bg-green-600">
-                    REGISTER
+                    ENREGISTRER
                 </button>
             </form>
 
