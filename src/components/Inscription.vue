@@ -29,7 +29,7 @@ const register = async () => {
             errorMessage.value = data.result.message || 'Registration error.';
         }
     } catch (error) {
-        errorMessage.value = 'An error has occurred. Please check your connection.';
+        errorMessage.value = 'An error has occurred. Please check your connection.rn';
     }
 };
 </script>
